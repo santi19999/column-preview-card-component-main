@@ -25,14 +25,13 @@ Los usuarios deben ser capaces de:
 
 ### Captura de pantalla
 
-![](./screenshot/captura-desktop.png)
-![](./screenshot/captura-movil.png)
-
+![](./screenshot/desktop.png)
+![](./screenshot/movil.png)
 
 ### Enlaces
 
-- URL SOLUCION: [Solucion] (https://your-solution-url.com)
-- URL del sitio en vivo: [Sitio en Vivo] (https://column-preview-card-component-main.netlify.app)
+- URL SOLUCION: [Solucion] (https://github.com/santi19999/column-preview-card-component-main)
+- URL del sitio en vivo: [Sitio en Vivo] (https://column-preview-card-component-main-santi19999.netlify.app/)
 
 ## Mi proceso
 
